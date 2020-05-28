@@ -1,4 +1,4 @@
-# Sally-in-the-Woods-Bouldering
+# Sally in the Woods Bouldering
 Location of boulders for the Sally in the Woods bouldering area near Bathford, Bath.
 
 Download the Sally-Boulders gpx or kmz files to load into your favourite GPS app.
