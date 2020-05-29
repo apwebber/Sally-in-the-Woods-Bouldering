@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.4.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="51.379865000000002" minlon="-2.298950300000000" maxlat="51.389217000000002" maxlon="-2.293504000000000"/></metadata>                  
+<wpt lat="51.383503122833304" lon="-2.297566434333334">
+  <extensions>
+    <ogr:Boulder>Yew Tree Slab</ogr:Boulder>
+    <ogr:Latitude>51.3834356</ogr:Latitude>
+    <ogr:Longitude>-2.2977005</ogr:Longitude>
+  </extensions>
+</wpt>
+<wpt lat="51.383072" lon="-2.297653">
+  <extensions>
+    <ogr:Boulder>Rob's Roof</ogr:Boulder>
+    <ogr:Latitude>51.383072</ogr:Latitude>
+    <ogr:Longitude>-2.297653</ogr:Longitude>
+  </extensions>
+</wpt>
+<wpt lat="51.383746" lon="-2.297739">
+  <extensions>
+    <ogr:Boulder>Yew Tree End</ogr:Boulder>
+    <ogr:Latitude>51.383746</ogr:Latitude>
+    <ogr:Longitude>-2.297739</ogr:Longitude>
+  </extensions>
+</wpt>
+<wpt lat="51.383207" lon="-2.297091">
+  <extensions>
+    <ogr:Boulder>Mossy Slab</ogr:Boulder>
+    <ogr:Latitude>51.383207</ogr:Latitude>
+    <ogr:Longitude>-2.297091</ogr:Longitude>
+  </extensions>
+</wpt>
+<wpt lat="51.384123" lon="-2.298128">
+  <extensions>
+    <ogr:Boulder>Bad Landing Project</ogr:Boulder>
+    <ogr:aka>Boulder 2</ogr:aka>
+    <ogr:Latitude>51.384123</ogr:Latitude>
+    <ogr:Longitude>-2.298128</ogr:Longitude>
+  </extensions>
+</wpt>
+<wpt lat="51.384204" lon="-2.298215">
+  <extensions>
+    <ogr:Boulder>The Fridge</ogr:Boulder>
+    <ogr:Latitude>51.384204</ogr:Latitude>
+    <ogr:Longitude>-2.298215</ogr:Longitude>
+  </extensions>
+</wpt>
+<wpt lat="51.384204" lon="-2.297739">
+  <extensions>
+    <ogr:Boulder>Boulder 3</ogr:Boulder>
+    <ogr:Latitude>51.384204</ogr:Latitude>
+    <ogr:Longitude>-2.297739</ogr:Longitude>
+  </extensions>
+</wpt>
+<wpt lat="51.384231" lon="-2.29748">
+  <extensions>
+    <ogr:Boulder>Stack and Mini Cave</ogr:Boulder>
+    <ogr:Latitude>51.384231</ogr:Latitude>
+    <ogr:Longitude>-2.29748</ogr:Longitude>
+  </extensions>
+</wpt>
+<wpt lat="51.3844488" lon="-2.2989503">
+  <extensions>
+    <ogr:Boulder>Mike's Boulder</ogr:Boulder>
+    <ogr:aka>Combine Harvester</ogr:aka>
+    <ogr:aka2>Boulder 6</ogr:aka2>
+    <ogr:Latitude>51.3844488</ogr:Latitude>
+    <ogr:Longitude>-2.2989503</ogr:Longitude>
+  </extensions>
+</wpt>
+<wpt lat="51.3845" lon="-2.298647">
+  <extensions>
+    <ogr:Boulder>Ben's Boulder</ogr:Boulder>
+    <ogr:aka>Boulder 5c</ogr:aka>
+    <ogr:Latitude>51.3845</ogr:Latitude>
+    <ogr:Longitude>-2.298647</ogr:Longitude>
+  </extensions>
+</wpt>
+<wpt lat="51.384635" lon="-2.29869">
+  <extensions>
+    <ogr:Boulder>Ben's Boulder Back Area</ogr:Boulder>
+    <ogr:aka>Boulder 5a, 5b</ogr:aka>
+    <ogr:Latitude>51.384635</ogr:Latitude>
+    <ogr:Longitude>-2.29869</ogr:Longitude>
+  </extensions>
+</wpt>
+<wpt lat="51.384581" lon="-2.298215">
+  <extensions>
+    <ogr:Boulder>Boulder 4</ogr:Boulder>
+    <ogr:Latitude>51.384581</ogr:Latitude>
+    <ogr:Longitude>-2.298215</ogr:Longitude>
+  </extensions>
+</wpt>
+<wpt lat="51.386168053166656" lon="-2.298649318">
+  <extensions>
+    <ogr:Boulder>Ragnar�k</ogr:Boulder>
+    <ogr:Latitude>51.38609</ogr:Latitude>
+    <ogr:Longitude>-2.29882</ogr:Longitude>
+  </extensions>
+</wpt>
+<wpt lat="51.3883" lon="-2.298604">
+  <extensions>
+    <ogr:Boulder>Matterhorn</ogr:Boulder>
+    <ogr:Latitude>51.3883</ogr:Latitude>
+    <ogr:Longitude>-2.298604</ogr:Longitude>
+  </extensions>
+</wpt>
+<wpt lat="51.389217" lon="-2.297956">
+  <extensions>
+    <ogr:Boulder>Sin City</ogr:Boulder>
+    <ogr:Latitude>51.389217</ogr:Latitude>
+    <ogr:Longitude>-2.297956</ogr:Longitude>
+  </extensions>
+</wpt>
+<wpt lat="51.382479" lon="-2.296832">
+  <extensions>
+    <ogr:Boulder>Roadside Boulder</ogr:Boulder>
+    <ogr:Latitude>51.382479</ogr:Latitude>
+    <ogr:Longitude>-2.296832</ogr:Longitude>
+  </extensions>
+</wpt>
+<wpt lat="51.3807" lon="-2.294238">
+  <extensions>
+    <ogr:Boulder>Boulder 7</ogr:Boulder>
+    <ogr:Latitude>51.3807</ogr:Latitude>
+    <ogr:Longitude>-2.294238</ogr:Longitude>
+  </extensions>
+</wpt>
+<wpt lat="51.379865" lon="-2.293504">
+  <extensions>
+    <ogr:Boulder>All Elements Area</ogr:Boulder>
+    <ogr:Latitude>51.379865</ogr:Latitude>
+    <ogr:Longitude>-2.293504</ogr:Longitude>
+  </extensions>
+</wpt>
+<wpt lat="51.380619" lon="-2.293547">
+  <extensions>
+    <ogr:Boulder>Halloween Buttress</ogr:Boulder>
+    <ogr:aka>The Cliff</ogr:aka>
+    <ogr:aka2>The Edge</ogr:aka2>
+    <ogr:Latitude>51.380619</ogr:Latitude>
+    <ogr:Longitude>-2.293547</ogr:Longitude>
+  </extensions>
+</wpt>
+<wpt lat="51.381751" lon="-2.294627">
+  <extensions>
+    <ogr:Boulder>RH Cave</ogr:Boulder>
+    <ogr:Latitude>51.381751</ogr:Latitude>
+    <ogr:Longitude>-2.294627</ogr:Longitude>
+  </extensions>
+</wpt>
+<wpt lat="51.381967" lon="-2.294627">
+  <extensions>
+    <ogr:Boulder>LH cave</ogr:Boulder>
+    <ogr:Latitude>51.381967</ogr:Latitude>
+    <ogr:Longitude>-2.294627</ogr:Longitude>
+  </extensions>
+</wpt>
+</gpx>
