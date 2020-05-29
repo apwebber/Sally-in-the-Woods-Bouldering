@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <gpx version="1.1" creator="GPS Visualizer https://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-<wpt lat="51.383503" lon="-2.297567">
+<wpt lat="51.3834356" lon="-2.2977005">
   <name>Yew Tree Slab</name>
-  <desc>aka: &lt;br>aka2: &lt;br>Latitude: 51.383503&lt;br>Longitude: -2.297567&lt;br>what3words: wrong.sums.bubble</desc>
+  <desc>aka: &lt;br>aka2: &lt;br>Latitude: 51.3834356&lt;br>Longitude: -2.2977005&lt;br>what3words: wrong.sums.bubble</desc>
   <sym>icon-1.png</sym>
 </wpt>
 <wpt lat="51.383072" lon="-2.297653">
@@ -40,9 +40,9 @@
   <desc>aka: &lt;br>aka2: &lt;br>Latitude: 51.384231&lt;br>Longitude: -2.29748&lt;br>what3words: spell.giant.talked</desc>
   <sym>icon-1.png</sym>
 </wpt>
-<wpt lat="51.384312" lon="-2.299079">
+<wpt lat="51.3844488" lon="-2.2989503">
   <name>Mike's Boulder</name>
-  <desc>aka: Combine Harvester&lt;br>aka2: Boulder 6&lt;br>Latitude: 51.384312&lt;br>Longitude: -2.299079&lt;br>what3words: gears.love.ruby</desc>
+  <desc>aka: Combine Harvester&lt;br>aka2: Boulder 6&lt;br>Latitude: 51.3844488&lt;br>Longitude: -2.2989503&lt;br>what3words: gears.love.ruby</desc>
   <sym>icon-1.png</sym>
 </wpt>
 <wpt lat="51.3845" lon="-2.298647">
